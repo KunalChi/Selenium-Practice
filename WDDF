@@ -1,0 +1,32 @@
+reate Data Driven Framework For Selenium WebDriver Using POI, TestNG And ANT
+STEP 1 : Create Workspace And Project For Framework.
+STEP 2 : Creating Project Structure For Framework.
+STEP 3 : Download Required Jar Files.                
+STEP 4 : Add jar Files In Project's Build Path.
+STEP 5 : Creating Required Class Files
+STEP 6 : Add Required .xls Files Of Data
+STEP 7 : Add .xls File Reading And Writing Utility In Framework
+STEP 8 : Creating Sample Data Reading Test In Framework
+STEP 9 : Implementing Data Reading Test In Both Test Suites
+STEP 10 : Adding testng.xml file To Run Suites From One Place 
+STEP 11 : Add Suite Skip Function In selenium Testing Framework 
+STEP 12 : Reporting Test Suite Execution Status 
+STEP 13 : Add Test Case Skip Function In automation framework 
+STEP 14 : Add Data Skip Function In Framework For Selenium
+STEP 15 : Reporting Test Data Result In Excel
+STEP 16 : Reporting Test Failure In TestNG Reports
+STEP 17 : Reporting Test Cases Results In Excel
+STEP 18 : Implement Logging Using Log4j
+STEP 19 : ANT - Generate XSLT Reports - Part 1
+STEP 20 : ANT - Generate XSLT Reports - Part 2
+STEP 21 : Run WebDriver Test From Batch(.bat) File
+STEP 22 : Introduce Selenium WebDriver In Framework
+STEP 23 : Implement Load Browser Function
+STEP 24 : Running Test In Different Browsers
+STEP 25 : URL Centralization For Easy Future Maintanance
+STEP 26 : Implement Calc Sum Test In DDF
+STEP 27 : Create Object Repository For Framework
+STEP 28 : Create getElementByXPath Function
+STEP 29 : Create Functions For All Other Locator Types
+STEP 30 : Implement Calc Tests In All Test Cases
+STEP 31 : Capturing Screenshot On Failure Or Pass
