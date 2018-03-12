@@ -1,4 +1,4 @@
-reate Data Driven Framework For Selenium WebDriver Using POI, TestNG And ANT
+Create Data Driven Framework For Selenium WebDriver Using POI, TestNG And ANT
 STEP 1 : Create Workspace And Project For Framework.
 STEP 2 : Creating Project Structure For Framework.
 STEP 3 : Download Required Jar Files.                
@@ -16,7 +16,7 @@ STEP 14 : Add Data Skip Function In Framework For Selenium
 STEP 15 : Reporting Test Data Result In Excel
 STEP 16 : Reporting Test Failure In TestNG Reports
 STEP 17 : Reporting Test Cases Results In Excel
-STEP 18 : Implement Logging Using Log4j
+STEP 18 : Implement Logging Using Log4j <<<<<<<
 STEP 19 : ANT - Generate XSLT Reports - Part 1
 STEP 20 : ANT - Generate XSLT Reports - Part 2
 STEP 21 : Run WebDriver Test From Batch(.bat) File
@@ -30,3 +30,27 @@ STEP 28 : Create getElementByXPath Function
 STEP 29 : Create Functions For All Other Locator Types
 STEP 30 : Implement Calc Tests In All Test Cases
 STEP 31 : Capturing Screenshot On Failure Or Pass
+
+testng-xslt-maven-plugin-test-0.0.jar
+saxon-8.7.jar
+SaxonLiaison.jar
+log4j-1.2.17.jar
+poi-3.10-FINAL-20140208.jar
+poi-ooxml-3.10-FINAL-20140208.jar
+poi-ooxml-schemas-3.10-FINAL-20140208.jar
+xmlbeans-2.3.0.jar (Inside ooxml-lib folder)
+dom4j-1.6.1.jar (Inside ooxml-lib folder)
+
+After creating all required classes under different packages, Now It Is time to create required .xls files. 
+Please note here that this framework will not support .xlsx files but It will support only .xls files so 
+please create only .xls files as described bellow. 
+
+
+
+http://www.software-testing-tutorials-automation.com/2014/07/create-data-driven-framework-for.html
+
+
+
+
+
+
